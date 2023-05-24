@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+button{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: 1px  solid black;
+    cursor: pointer;
+    border-radius: 50%;
+}
